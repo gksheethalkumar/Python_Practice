@@ -1,4 +1,7 @@
 class node():
+'''
+Added some comments
+'''
     def __init__(self,value=None):
         self.value = value
         self.rightval = None
